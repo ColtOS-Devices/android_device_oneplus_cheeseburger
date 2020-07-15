@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_cheeseburger.mk
+    $(LOCAL_DIR)/colt_cheeseburger.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_cheeseburger-user \
-    xtended_cheeseburger-userdebug \
-    xtended_cheeseburger-eng
+    colt_cheeseburger-user \
+    colt_cheeseburger-userdebug \
+    colt_cheeseburger-eng
